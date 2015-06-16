@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet"
+	href="jquery/jquery-ui.css">
+ <script src="jquery/external/jquery/jquery.js"></script>
+<script>
+
+//function GetURLParameter(sParam)
+//{
+function loadItems(){
+		var sPageURL = window.location.search.substring(1);
+		var sURLVariables = sPageURL.split('&');
+		var filename = "software_items.json";
+		
+//		var filename = "softwarefiles/category_items_";
+		var catId = '';
+		var categoryPath = '';
+		for (var i = 0; i < sURLVariables.length; i++)
+		{
+			var sParameterName = sURLVariables[i].split('=');
+			//alert(sParameterName);
+			if (sParameterName[0] == 'categoryid')
+			{
+				catId= sParameterName[1];
+				//break;
+			} else if (sParameterName[0] == 'path'){
+				categoryPath = decodeURIComponent(sParameterName[1]);
+			}
+		}
+		//alert(categoryPath);
+//		filename = filename + catId + ".json";
+
+		//alert(filename);
+		var text;
+		
+		$.getJSON(
+		filename,
+		function(data) {
+		text = JSON.stringify(data);
+		obj = JSON.parse(text);
+		document.getElementById("demo").innerHTML = getItemsHTML(catId,obj,categoryPath);
+		//document.getElementById("demo").innerHTML = obj.employees[2].firstName + " " + obj.employees[1].lastName;	
+		//document.getElementById("demo").innerHTML = text;
+	//document.getElementById("demo").innerHTML = obj.employees[2].firstName + " " + obj.employees[1].lastName;
+	//obj = JSON.parse(data);
+	//alert(obj);
+		}
+	);
+	}
+	
+	function getItemsHTML(catId,jsobObj,path){
+		var html = "<span style='color:#3366ff'><h2>"+ path+"</h2></span><table width='80%' align='center'>";
+		for(x=0;x<jsobObj.length;x++){
+			if (jsobObj[x].parentCategoryId == catId){
+				if (jsobObj[x].itemName != null)
+					html = html + "<tr><td valign='top'>Name:</td><td><b>" + jsobObj[x].itemName + "<b><p></p></td></tr>";
+				if (jsobObj[x].itemDescription != null)	
+					html = html + "<tr><td valign='top'>Description:</td><td>" + jsobObj[x].itemDescription + "<p></p></td></tr><tr></tr>";
+				if (jsobObj[x].licensingInfo != null)	
+					html = html + "<tr><td valign='top'>Licensing:</td><td>" + jsobObj[x].licensingInfo + "<p></p></td></tr><tr></tr>";
+				if (jsobObj[x].platform != null)	
+					html = html + "<tr><td valign='top'>Platform:</td><td>" + jsobObj[x].platform + "<p></p></td></tr><tr></tr>";
+				html = html + "<tr><td colspan='2'><hr></td></tr>";	
+			}
+		}
+		html = html + "</table>";
+		return html;
+		
+	
+	}
+</script>
+<body onload="loadItems()">
+
+
+<p id="demo"></p>
+<script>
+/*
+
+var text = '{"employees":[' +
+'{"firstName":"John","lastName":"Doe" },' +
+'{"firstName":"Anna","lastName":"Smith" },' +
+'{"firstName":"Peter","lastName":"Jones" }]}';
+
+alert("new text" + text);
+obj = JSON.parse(text);
+document.getElementById("demo").innerHTML =
+obj.employees[2].firstName + " " + obj.employees[1].lastName;
+*/
+</script>
+
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet"
+	href="jquery/jquery-ui.css">
+ <script src="jquery/external/jquery/jquery.js"></script>
+ 
+ 
+ <script src="jquery/jquery-ui.js"></script>
+ <script src="jquery/tree.jquery.js"></script>
+ <link rel="stylesheet" href="jquery/jqtree.css">
+ 
+ <script>
+ 
+ var data2 = [
+    {
+        "label": "node1",
+        "children": [
+            { "label": "child1" },
+            { "label": "child2" }
+        ]
+    },
+    {
+        "label": "node2",
+        "children": [
+            { "label": "child3" }
+        ]
+    }
+];
+/*
+$(function() {
+    $('#tree1').tree({
+        data: data
+    });
+});
+
+
+*/
+
+$.getJSON(
+    'software_categories.txt',
+    function(data) {
+	//alert(data);
+        $('#tree1').tree({
+            //data: JSON.stringify(data)
+			data: data,
+		  autoEscape: false,
+		  //autoOpen: false			
+		});
+    }
+);
+
+
+
+/*
+	$(document).ready(function() {
+		//$("button").click(function() {
+			$.ajax({
+				url : "software_categories.txt",
+				success : function(data) {
+				alert(data);
+					$('#tree1').tree({
+						data: data2;
+					});				
+			})
+			});
+
+
+*/
+
+ </script>
+ 
+ <body>
+ <div id="tree1"></div>
+ <!-- div id="tree1" data-url="/software_categories.txt"></div -->
+ </body>
+ 
+</html>
