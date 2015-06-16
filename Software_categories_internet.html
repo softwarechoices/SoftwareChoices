@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+<span></span>
+<link rel="stylesheet"
+	href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/themes/smoothness/jquery-ui.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+ 
+ 
+ <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.3/jquery-ui.min.js"></script>
+ <script src="http://mbraak.github.io/jqTree/tree.jquery.js"></script>
+ <link rel="stylesheet" href="http://mbraak.github.io/jqTree/jqtree.css">
+ 
+ <script>
+ 
+ var data2 = [
+    {
+        "label": "node1",
+        "children": [
+            { "label": "child1" },
+            { "label": "child2" }
+        ]
+    },
+    {
+        "label": "node2",
+        "children": [
+            { "label": "child3" }
+        ]
+    }
+];
+/*
+$(function() {
+    $('#tree1').tree({
+        data: data
+    });
+});
+
+
+*/
+
+$.getJSON(
+    //'https://sites.google.com/site/alternatesoftwares/softwarechoices/software_categories.txt',
+	'software_categories.txt',
+    function(data) {
+	//alert(data);
+        $('#tree1').tree({
+            //data: JSON.stringify(data)
+			data: data,
+		  autoEscape: false
+		  //autoOpen: false			
+		});
+    }
+);
+
+
+
+/*
+	$(document).ready(function() {
+		//$("button").click(function() {
+			$.ajax({
+				url : "software_categories.txt",
+				success : function(data) {
+				alert(data);
+					$('#tree1').tree({
+						data: data2;
+					});				
+			})
+			});
+
+
+*/
+
+ </script>
+ 
+ <body bgcolor="#F2AE72">
+ <div id="tree1"></div>
+ <!-- div id="tree1" data-url="/software_categories.txt"></div -->
+ </body>
+ 
+</html>
