@@ -40,6 +40,8 @@ $(function() {
 $.getJSON(
     'software_categories.txt',
     function(data) {
+	document.getElementById("load").style.display = "block"; 
+	
 	//alert(data);
         $('#tree1').tree({
             //data: JSON.stringify(data)
@@ -47,6 +49,7 @@ $.getJSON(
 		  autoEscape: false,
 		  //autoOpen: false			
 		});
+		document.getElementById("load").style.display = "none";
     }
 );
 
@@ -71,6 +74,7 @@ $.getJSON(
  </script>
  
  <body>
+ <div id="load" style="display:none"><img src="images/Preloader_10.gif"/></div>
  <div id="tree1"></div>
  <!-- div id="tree1" data-url="/software_categories.txt"></div -->
  </body>
