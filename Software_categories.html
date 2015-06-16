@@ -8,10 +8,27 @@
  
  <script src="jquery/jquery-ui.js"></script>
  <script src="jquery/tree.jquery.js"></script>
+ 
  <link rel="stylesheet" href="jquery/jqtree.css">
  
+ <style>
+ #dvLoading
+{
+   background:#000 url(images/giphy.gif) no-repeat center center;
+   height: 100px;
+   width: 100px;
+   position: fixed;
+   z-index: 1000;
+   left: 50%;
+   top: 50%;
+   margin: -25px 0 0 -25px;
+}
+ </style>
  <script>
- 
+ $(window).load(function(){
+  $('#dvLoading');
+});
+
  var data2 = [
     {
         "label": "node1",
@@ -40,7 +57,7 @@ $(function() {
 $.getJSON(
     'software_categories.txt',
     function(data) {
-	document.getElementById("load").style.display = "block"; 
+	//document.getElementById("load").style.display = "block"; 
 	
 	//alert(data);
         $('#tree1').tree({
@@ -49,7 +66,7 @@ $.getJSON(
 		  autoEscape: false,
 		  //autoOpen: false			
 		});
-		document.getElementById("load").style.display = "none";
+		//document.getElementById("load").style.display = "none";
     }
 );
 
@@ -74,7 +91,7 @@ $.getJSON(
  </script>
  
  <body>
- <div id="load" style="display:block"><img src="images/giphy.gif"/></div>
+ <!-- div id="load" style="display:block"><img src="images/giphy.gif"/></div -->
  <div id="tree1"></div>
  <!-- div id="tree1" data-url="/software_categories.txt"></div -->
  </body>
