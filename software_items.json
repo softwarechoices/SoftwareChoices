@@ -479,6 +479,11 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "320"
 }, {
+  "itemName" : "<a href='http://www.ibm.com/software/data/cognos/'target='_blank'>Cognos</a>",
+  "itemDescription" : "Cognos (Cognos Incorporated) was an Ottawa, Ontario-based company making business intelligence (BI) and performance management (PM) software. Founded in 1969, at its peak Cognos employed almost 3,500 people and served more than 23,000 customers in over 135 countries until being acquired by IBM on January 31, 2008.[1] While no longer an independent company, the Cognos name continues to be applied to IBM's line of business intelligence and performance management products.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "320"
+}, {
   "itemName" : "<a href='http://www.talend.com/'target='_blank'>Talend</a>",
   "itemDescription" : "Talend is an open source software vendor that provides data integration, data management, enterprise application integration and big data software and services. Headquartered in Redwood City, California,",
   "licensingInfo" : "Open Source, Commercial",
@@ -494,8 +499,28 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "400"
 }, {
+  "itemName" : "<a href='http://www.apatar.com/'target='_blank'>Apatar</a>",
+  "itemDescription" : "Apatar is an open source ETL (Extract-Transform-Load) and data integration software application",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "400"
+}, {
+  "itemName" : "<a href='http://www.cloveretl.com/'target='_blank'>CloverETL</a>",
+  "itemDescription" : "CloverETL is a rapid, end-to-end data integration solution. Businesses choose CloverETL for its\nusability and intuitive controls, along with its lightweight footprint, flexibility, and processing speed.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "400"
+}, {
+  "itemName" : "<a href='http://octopus.ow2.org/doc/'target='_blank'>Enhydra Octopus</a>",
+  "itemDescription" : "Enhydra Octopus loads data from a JDBC data source (database) into JDBC data target (database) and it perform many transformations defined in an XML file.\n\nThis application can process several different types of databases.\n\nPossible JDBC source/target database types are: MSSQL, MySql, Access, Excel, Csv, PostgreSQL, Qed, InstantDB, XML, BorlandJDataStore, Oracle, HSQL, McKoi, DB2, Sybase and Paradox database.\n\nAlso, Enhydra Octopus application has several loading possibilities: creating databases, creating tables, inserting data into an empty database, inserting data in to a non empty database, updating constant columns, updating relation columns, updating columns with system time, updating columns with a user ID, executing every possible SQL statement, creating artificial keys using the Enhydra DODS objected logic",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "400"
+}, {
   "itemName" : "<a href='https://hc.apache.org/'target='_blank'>HttpComponents</a>",
   "itemDescription" : "The Apache HttpComponents? project is responsible for creating and maintaining a toolset of low level Java components focused on HTTP and associated protocols.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "460"
+}, {
+  "itemName" : "<a href='http://www.jgroups.org/'target='_blank'>Jgroups</a>",
+  "itemDescription" : "JGroups is a toolkit for reliable multicast communication. It can be used to create groups of processes whose members can send messages to each other. JGroups enables developers to create reliable multipoint (multicast) applications where reliability is a deployment issue. JGroups also relieves the application developer from implementing this logic themselves. This saves significant development time and allows for the application to be deployed in different environments without having to change code",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "460"
 }, {
@@ -554,11 +579,31 @@
   "parentCategoryId" : "463",
   "platform" : "Mac"
 }, {
+  "itemName" : "<a href='http://www.leechftp.de/'target='_blank'>LeechFTP</a>",
+  "itemDescription" : "LeechFTP is a multi-threaded freeware FTP client",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "465"
+}, {
+  "itemName" : "<a href='http://www.cuteftp.com/'target='_blank'>CuteFTP</a>",
+  "itemDescription" : "CuteFTP is a series of FTP (file transfer) client applications Distributed and Supported by GlobalSCAPE since 1996, who later bought the rights to the software. Both a Windows-based or Mac-based interface were made for both home and professional use.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "465"
+}, {
+  "itemName" : "<a href='http://www.chiark.greenend.org.uk/~sgtatham/putty'target='_blank'>Putty</a>",
+  "itemDescription" : "PuTTY (/?p?ti/[2]) is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection. It can also connect to a serial port (since version 0.59). The name \"PuTTY\" has no definitive meaning",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "465"
+}, {
   "itemName" : "<a href='https://jersey.java.net/'target='_blank'>Jersey</a>",
   "itemDescription" : " Jersey RESTful Web Services framework is open source, production quality, framework for developing RESTful Web Services in Java that provides support for JAX-RS APIs and serves as a JAX-RS (JSR 311 & JSR 339) Reference Implementation.",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "470",
   "platform" : "Java"
+}, {
+  "itemName" : "<a href='http://cxf.apache.org/'target='_blank'>Apache CXF</a>",
+  "itemDescription" : "Apache CXF is an open source services framework. CXF helps you build and develop services using frontend programming APIs, like JAX-WS and JAX-RS. These services can speak a variety of protocols such as SOAP, XML/HTTP, RESTful HTTP, or CORBA and work over a variety of transports such as HTTP, JMS or JBI.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "470"
 }, {
   "itemName" : "<a href='http://www.dreamfactory.com/'target='_blank'>Dream Factory</a>",
   "itemDescription" : "Dreamfactory is an open source software package that provides a pre-built, highly-customizable RESTful backend for modern mobile, web, and Internet of Things (IoT) applications. DreamFactory functions as server middleware. With just a few clicks, you can connect your applications to backend resources such as SQL, NoSQL, file storage, email, and push notifications with an automatically generated Representational State Transfer (REST) API.",
@@ -586,6 +631,11 @@
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "482"
 }, {
+  "itemName" : "<a href='http://projects.spring.io/spring-ws/'target='_blank'>Spring Web Services</a>",
+  "itemDescription" : "Spring Web Services (Spring-WS) is a product of the Spring community focused on creating document-driven Web services. Spring Web Services aims to facilitate contract-first SOAP service development, allowing for the creation of flexible web services using one of the many ways to manipulate XML payloads. The product is based on Spring itself, which means you can use the Spring concepts such as dependency injection as an integral part of your Web service.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "482"
+}, {
   "itemName" : "<a href='http://getbootstrap.com/'target='_blank'>BootStrap</a>",
   "itemDescription" : "Bootstrap is the most popular HTML, CSS, and JavaScript framework for developing responsive, mobile-first web sites.",
   "licensingInfo" : "Open Source",
@@ -601,6 +651,21 @@
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "490",
   "platform" : "Java"
+}, {
+  "itemName" : "<a href='http://www.liferay.com/community/liferay-projects/alloy-ui/overview'target='_blank'>Alloy UI</a>",
+  "itemDescription" : "Alloy UI is Liferay's open-source javascript library. It is built on Yahoo User Interface (YUI) and has support for a variety of advanced javascript functions specifically designed for portlets. It is available under the BSD License It is designed to take advantage of and incorporate patterns from the best libraries to make building robust and flexible web applications.\n\nIt is a JavaScript library, a CSS framework, a set of HTML recipes and a taglib library, all combined to empower developers across multi-skilled teams deliver rich and dynamic applications.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "490"
+}, {
+  "itemName" : "<a href='http://dojotoolkit.org'target='_blank'>Dojo Tool kit</a>",
+  "itemDescription" : "Dojo Toolkit (stylized as d?j? toolkit) is an open source modular JavaScript library (or more specifically JavaScript toolkit) designed to ease the rapid development of cross-platform, JavaScript/Ajax-based applications and web sites. It was started by Alex Russell, Dylan Schiemann, David Schontzler, and others in 2004[1] and is dual-licensed under the modified BSD license or the Academic Free License (? 2.1).[2] The Dojo Foundation is a non-profit organization[3] created with the goal to promote the adoption of the toolkit.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "490"
+}, {
+  "itemName" : "<a href='http://yuilibrary.com/'target='_blank'>YUI</a>",
+  "itemDescription" : "The Yahoo! User Interface Library (YUI) is a discontinued open-source JavaScript library for building richly interactive web applications using techniques such as Ajax, DHTML, and DOM scripting. YUI includes several core CSS resources. It is available under a BSD License.[2] Development on YUI began in 2005 and Yahoo! properties such as My Yahoo! and the Yahoo! front page began using YUI in the summer of that year. YUI was released for public use in February 2006.[3] It was actively developed by a core team of Yahoo! engineers.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "490"
 }, {
   "itemName" : "<a href='http://jqueryvalidation.org/'target='_blank'>jQuery Validation Plugin</a>",
   "itemDescription" : "This jQuery plugin makes simple clientside form validation easy, whilst still offering plenty of customization options. It makes a good choice if you?re building something new from scratch, but also when you?re trying to integrate something into an existing application with lots of existing markup. The plugin comes bundled with a useful set of validation methods, including URL and email validation, while providing an API to write your own methods. All bundled methods come with default error messages in english and translations into 37 other languages",
@@ -634,6 +699,11 @@
 }, {
   "itemName" : "<a href='http://en.wikipedia.org/wiki/XML'target='_blank'>XML</a>",
   "itemDescription" : "Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format which is both human-readable and machine-readable. It is defined by the W3C's XML 1.0 Specification[2] and by several other related specifications,[3] all of which are free open standards",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "550"
+}, {
+  "itemName" : "<a href='http://www.docbook.org/'target='_blank'>DocBook</a>",
+  "itemDescription" : "DocBook is a semantic markup language for technical documentation. It was originally intended for writing technical documents related to computer hardware and software but it can be used for any other sort of documentation",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "550"
 }, {
@@ -715,12 +785,12 @@
   "itemName" : "<a href='https://avro.apache.org'target='_blank'>Apache Avro</a>",
   "itemDescription" : "Apache Avro™ is a data serialization system.\n\nAvro provides:\n\nRich data structures.\nA compact, fast, binary data format.\nA container file, to store persistent data.\nRemote procedure call (RPC).\nSimple integration with dynamic languages. Code generation is not required to read or write data files nor to use or implement RPC protocols. Code generation as an optional optimization, only worth implementing for statically typed languages.",
   "licensingInfo" : "Open Source",
-  "parentCategoryId" : "581"
+  "parentCategoryId" : "585"
 }, {
   "itemName" : "<a href='https://developers.google.com/protocol-buffers/'target='_blank'>Protocol Buffers</a>",
   "itemDescription" : "Protocol Buffers are a method of serializing structured data. They are useful in developing programs to communicate with each other over a wire or for storing data. The method involves an interface description language that describes the structure of some data and a program that generates source code from that description for generating or parsing a stream of bytes that represents the structured data.",
   "licensingInfo" : "Open Source",
-  "parentCategoryId" : "581"
+  "parentCategoryId" : "585"
 }, {
   "itemName" : "<a href='http://www.umlet.com/'target='_blank'>UMLet</a>",
   "itemDescription" : "UMLet is a free, open-source UML tool with a simple user interface: draw UML diagrams fast, build sequence and activity diagrams from plain text, export diagrams to eps, pdf, jpg, svg, and clipboard, share diagrams using Eclipse, and create new, custom UML elements. UMLet runs stand-alone or as Eclipse plug-in on Windows, OS X and Linux",
@@ -737,8 +807,28 @@
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "590"
 }, {
+  "itemName" : "<a href='http://www.ibm.com/developerworks/downloads/r/architect/'target='_blank'>Rational Software Architect</a>",
+  "itemDescription" : "BM® Rational® Software Architect is an advanced and comprehensive application design, modeling and development tool for end-to-end software delivery. The latest version is updated with the latest in design and modeling technologies, comprehensive support for emerging technologies around BPMN2, SOA and Java™ Enterprise Edition 5, and delivers the best of breed tooling that integrates with IBM's application lifecycle management solutions.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "590"
+}, {
+  "itemName" : "<a href='http://argouml.tigris.org/'target='_blank'>ArgoUML</a>",
+  "itemDescription" : "ArgoUML is the leading open source UML modeling tool and includes support for all standard UML 1.4 diagrams. It runs on any Java platform and is available in ten languages.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "590"
+}, {
+  "itemName" : "<a href='http://staruml.io/'target='_blank'>StartUML</a>",
+  "itemDescription" : "StarUML is a UML tool by MKLab. The software was licensed under a modified version of GNU GPL until 2014, when a rewritten version 2.0.0 was released for beta testing under a proprietary license.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "590"
+}, {
   "itemName" : "<a href='http://winmerge.org/'target='_blank'>WinMerge</a>",
   "itemDescription" : "WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "600"
+}, {
+  "itemName" : "<a href='http://cloc.sourceforge.net/#Overview'target='_blank'>Cloc</a>",
+  "itemDescription" : "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. Given two versions of a code base, cloc can compute differences in blank, comment, and source lines. It is written entirely in Perl with no dependencies outside the standard distribution of Perl v5.6 and higher (code from some external modules is embedded within cloc) and so is quite portable",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "600"
 }, {
@@ -792,26 +882,6 @@
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "630"
 }, {
-  "itemName" : "<a href='https://addons.mozilla.org/en-US/firefox/addon/firebug/'target='_blank'>FireBug</a>",
-  "itemDescription" : "Firebug integrates with Firefox to put a wealth of development tools at your fingertips while you browse. You can edit, debug, and monitor CSS, HTML, and JavaScript live in any web page",
-  "licensingInfo" : "Open Source",
-  "parentCategoryId" : "631"
-}, {
-  "itemName" : "<a href='https://visualvm.java.net/'target='_blank'>VisualVM</a>",
-  "itemDescription" : "VisualVM is a visual tool integrating several commandline JDK tools and lightweight profiling capabilities. Designed for both production and development time use, it further enhances the capability of monitoring and performance analysis for the Java SE platform",
-  "licensingInfo" : "Open Source",
-  "parentCategoryId" : "631"
-}, {
-  "itemName" : "<a href='http://newrelic.com/'target='_blank'>NewRelic</a>",
-  "itemDescription" : "Complete performance visibility for all aspects of your software environment.\nKnow your customer?s true experience with your software.",
-  "licensingInfo" : "Commercial",
-  "parentCategoryId" : "631"
-}, {
-  "itemName" : "<a href='https://www.wireshark.org/'target='_blank'>WireShark</a>",
-  "itemDescription" : "Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education.",
-  "licensingInfo" : "Open Source",
-  "parentCategoryId" : "631"
-}, {
   "itemName" : "<a href='http://www.clamav.net/'target='_blank'>ClamAV</a>",
   "itemDescription" : "Clam AntiVirus (ClamAV) is a free and open-source, cross-platform antivirus software tool-kit able to detect many types of malicious software, including viruses. One of its main uses is on mail servers as a server-side email virus scanner",
   "licensingInfo" : "Open Source",
@@ -826,6 +896,16 @@
   "itemDescription" : "Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more",
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "633"
+}, {
+  "itemName" : "<a href='http://www.andromda.org/whatisit.html'target='_blank'>AndroMDA</a>",
+  "itemDescription" : "AndroMDA is an open source MDA framework - it takes any number of models (usually UML models stored in XMI produced from case-tools) combined with any number of andromda plugins (cartridge and translation-libraries) and produces any number of custom components. You can generate components for any language you want, Java, .Net, HTML, PHP, anything really, you just write (or customize existing) plugins to support it and you're good to go",
+  "licensingInfo" : "open Source",
+  "parentCategoryId" : "634"
+}, {
+  "itemName" : "<a href='http://www.stack.nl/~dimitri/doxygen/'target='_blank'>Doxygen</a>",
+  "itemDescription" : "Doxygen is the de facto standard tool for generating documentation from annotated C++ sources, but it also supports other popular programming languages such as C, Objective-C, C#, PHP, Java, Python, IDL (Corba, Microsoft, and UNO/OpenOffice flavors), Fortran, VHDL, Tcl, and to some extent D.",
+  "licensingInfo" : "open Source",
+  "parentCategoryId" : "635"
 }, {
   "itemName" : "<a href='http://httpd.apache.org/'target='_blank'>Apache HTTP Server</a>",
   "itemDescription" : "The Apache HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows NT. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards",
@@ -907,6 +987,21 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "721"
 }, {
+  "itemName" : "<a href='http://www.oracle.com/tuxedo'target='_blank'>BEA Tuxedo</a>",
+  "itemDescription" : "Tuxedo (Transactions for Unix, Extended for Distributed Operations) is a middleware platform used to manage distributed transaction processing in distributed computing environments. Tuxedo is a transaction processing system or transaction-oriented middleware, or enterprise application server for a variety of systems and programming languages. Developed by AT&T in the 1980s, it became a software product of Oracle Corporation in 2008 when they acquired BEA Systems.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "721"
+}, {
+  "itemName" : "<a href='http://www.caucho.com/'target='_blank'>Resin</a>",
+  "itemDescription" : "Resin is a web server and Java application server from Caucho Technology. In addition to Resin (GPL), Resin Pro is available for enterprise and production environments. Resin supports the Java EE standard[2] as well as a mod_php/PHP like engine called Quercus.[3]",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "721"
+}, {
+  "itemName" : "<a href='http://enhydra.ow2.org/about.html'target='_blank'>Enhydra Server</a>",
+  "itemDescription" : "Enhydra is the first and leading Open Source Java/XML application server. It was initially created by Lutris Technologies",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "721"
+}, {
   "itemName" : "<a href='http://wso2.com/products/identity-server/'target='_blank'>WSO2 Identity Server</a>",
   "itemDescription" : "WSO2 Identity Server provides sophisticated security and identity management of enterprise web applications, services, and APIs, and makes life easier for developers and architects with its hassle-free, minimal monitoring and maintenance requirements. In its latest version, Identity Server acts as an Enterprise Identity Bus (EIB) — a central backbone to connect and manage multiple identities regardless of the standards on which they are based",
   "licensingInfo" : "Open Source",
@@ -917,10 +1012,20 @@
   "licensingInfo" : "open Source",
   "parentCategoryId" : "723"
 }, {
+  "itemName" : "<a href='http://www.openldap.org'target='_blank'>Open LDAP</a>",
+  "itemDescription" : "OpenLDAP is a free, open source implementation of the Lightweight Directory Access Protocol (LDAP) developed by the OpenLDAP Project. It is released under its own BSD-style license called the OpenLDAP Public License",
+  "licensingInfo" : "open Source",
+  "parentCategoryId" : "723"
+}, {
   "itemName" : "<a href='https://docs.oracle.com/cd/E19575-01/820-7053/ghmgz/index.html'target='_blank'>Sun GlassFish Web Space Server</a>",
   "itemDescription" : "Sun GlassFish Web Space Server 10.0 software is Sun's next-generation Web 2.0 application aggregation and presentation platform. It is a suite of integrated software products that enables businesses large and small to pull together applications and content from a variety of Web-based and internal sources and present them as a unified, customizable portal on Web browsers, kiosks, and mobile devices. Web Space Server makes it easier for users to find and use the tools and information they need when they need them",
   "licensingInfo" : "open Source",
   "parentCategoryId" : "724"
+}, {
+  "itemName" : "<a href='https://roller.apache.org/'target='_blank'>Apache Roller</a>",
+  "itemDescription" : "Apache Roller is a Java-based, full-featured, multi-user and group-blog server suitable for blog sites large and small",
+  "licensingInfo" : "open Source",
+  "parentCategoryId" : "725"
 }, {
   "itemName" : "<a href='http://lucene.apache.org/solr/'target='_blank'>Apache Solr</a>",
   "itemDescription" : " is an open source enterprise search platform, written in Java, from the Apache Lucene project. Its major features include full-text search, hit highlighting, faceted search, real-time indexing, dynamic clustering, database integration, NoSQL features[1] and rich document (e.g., Word, PDF) handling. Providing distributed search and index replication, Solr is highly scalable and fault tolerant.[2] Solr is the most popular enterprise search engine",
@@ -929,6 +1034,11 @@
 }, {
   "itemName" : "<a href='http://www.splunk.com/'target='_blank'>Splunk</a>",
   "itemDescription" : "Splunk is an American multinational corporation headquartered in San Francisco, California, which produces software for searching, monitoring, and analyzing machine-generated big data, via a web-style interface",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "800"
+}, {
+  "itemName" : "<a href='http://www.thunderstone.com/texis/site/pages/Products.html'target='_blank'>Thunderstone</a>",
+  "itemDescription" : "Thunderstone provides enterprise search softrware.",
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "800"
 }, {
@@ -992,6 +1102,41 @@
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "850"
 }, {
+  "itemName" : "<a href='http://www.spagoworld.org/xwiki/bin/view/Spago/JavaFramework'target='_blank'>Spago</a>",
+  "itemDescription" : "A Java Enterprise Framework is a reusable, semi-complete infrastructure that can produce customized applications. It is a platform for developing distributed multi-tier applications, based on modular components, employing several technologies, including JDBC and CORBA, and extending their functionality with Enterprise Java Beans, Java Servlets, Java Server Pages and XML technologies. This allows the developer to create an Enterprise Application that is scalable, portable between platforms and that can be integrated with several legacy technologies.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "850"
+}, {
+  "itemName" : "<a href='http://www.adobe.com/in/products/flex.html'target='_blank'>Adobe Flex</a>",
+  "itemDescription" : "Flex is a highly productive, open source application framework for building and maintaining expressive web applications that deploy consistently on all major browsers, desktops, and devices. It provides a modern, standards-based language and programming model that supports common design patterns suitable for developers from many backgrounds",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "850"
+}, {
+  "itemName" : "<a href='http://vaadin.com'target='_blank'>Vaading</a>",
+  "itemDescription" : "Vaadin is an open source Web application framework for rich Internet applications. In contrast to JavaScript libraries and browser-plugin based solutions, it features a server-side architecture, which means that the majority of the logic runs on the servers. Ajax technology is used at the browser-side to ensure a rich and interactive user experience. On the client-side Vaadin is built on top of and can be extended with Google Web Toolkit.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "850"
+}, {
+  "itemName" : "<a href='http://www.javatpoint.com/java-swing'target='_blank'>Java Swing</a>",
+  "itemDescription" : "Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes (JFC) — an API for providing a graphical user interface (GUI) for Java programs.",
+  "licensingInfo" : "open Source",
+  "parentCategoryId" : "850"
+}, {
+  "itemName" : "<a href='http://www.seamframework.org/'target='_blank'>Jboss Seam</a>",
+  "itemDescription" : "Seam is a web application framework developed by JBoss, a division of Red Hat",
+  "licensingInfo" : "open Source",
+  "parentCategoryId" : "850"
+}, {
+  "itemName" : "<a href='http://docs.oracle.com/javase/8/javase-clienttechnologies.htm'target='_blank'>Java FX</a>",
+  "itemDescription" : "JavaFX is a set of graphics and media packages that enables developers to design, create, test, debug, and deploy rich client applications that operate consistently across diverse platforms",
+  "licensingInfo" : "open Source",
+  "parentCategoryId" : "850"
+}, {
+  "itemName" : "<a href='http://tapestry.apache.org/'target='_blank'>Tapestry</a>",
+  "itemDescription" : "Apache Tapestry is an open-source component-oriented Java web application framework conceptually similar to JavaServer Faces and Apache Wicket.[1] Tapestry was created by Howard Lewis Ship, and was adopted by the Apache Software Foundation as a top-level project in 2006",
+  "licensingInfo" : "open Source",
+  "parentCategoryId" : "850"
+}, {
   "itemName" : "<a href='http://www.oracle.com/technetwork/java/javaee/javaserverfaces-139869.html'target='_blank'>JSF</a>",
   "itemDescription" : "JavaServer Faces (JSF) is a Java specification for building component-based user interfaces for web applications. It was formalized as a standard through the Java Community Process and is part of the Java Platform, Enterprise Edition.",
   "licensingInfo" : "Open Source",
@@ -1001,6 +1146,30 @@
   "itemDescription" : "The RichFaces project is an advanced UI component framework for easily integrating Ajax capabilities into business applications using JSF.",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "853"
+}, {
+  "itemName" : "<a href='http://www.icesoft.org/'target='_blank'>ICE Faces</a>",
+  "itemDescription" : "CEfaces is an open source Software development kit that extends JavaServer Faces (JSF) by employing Ajax. It is used to construct rich Internet applications (RIA) using the Java programming language. With ICEfaces, the coding for interaction and Ajax on the client side is programmed in Java, rather than in JavaScript, or with plug-ins.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "853"
+}, {
+  "itemName" : "<a href='http://facelets.java.net/'target='_blank'>Facelets</a>",
+  "itemDescription" : "Facelets is an open source Web template system under the Apache license and the default view handler technology (aka view declaration language) for JavaServer Faces (JSF). The language requires valid input XML documents to work. Facelets supports all of the JSF UI components and focuses completely on building the JSF component tree, reflecting the view for a JSF application.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "853"
+}, {
+  "itemName" : "Swing",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "855"
+}, {
+  "itemName" : "<a href='http://www.jgoodies.com/'target='_blank'>Jgoodies</a>",
+  "itemDescription" : "JGoodies offers freeware, products, and services for Java desktop developers. We focus on Java user interface design and its implementation in Swing and now JavaFX. We provide training, consulting, libraries, example applications, desktop patterns, design templates, an application architecture, and a production process – all intended to help you work with Java desktop effectively and efficiently.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "856"
+}, {
+  "itemName" : "<a href='http://www.jidesoft.com/'target='_blank'>JIDE</a>",
+  "itemDescription" : "JIDE Software is a professional Java UI component provider using technologies such as Swing, JavaFX and Javascript/HTML5. JIDE Software's products focused on rich-client applications for software developers. Based on Java UI technology, JIDE Software's products allow for the maximum compatibility with industry standards and can run on any Java enabled platforms.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "856"
 }, {
   "itemName" : "<a href='http://hibernate.org/'target='_blank'>Hibernate</a>",
   "itemDescription" : "Hibernate ORM (Hibernate in short) is an object-relational mapping framework for the Java language, providing a framework for mapping an object-oriented domain model to a traditional relational database. Hibernate solves object-relational impedance mismatch problems by replacing direct persistence-related database accesses with high-level object handling functions.",
@@ -1039,11 +1208,6 @@
 }, {
   "itemName" : "<a href='http://www.oracle.com/technetwork/java/javase/jaas/index.html'target='_blank'>JAAS</a>",
   "itemDescription" : "Java security technology includes a large set of APIs, tools, and implementations of commonly used security algorithms, mechanisms, and protocols. The Java security APIs span a wide range of areas, including cryptography, public key infrastructure, secure communication, authentication, and access control. Java security technology provides the developer with a comprehensive security framework for writing applications, and also provides the user or administrator with a set of tools to securely manage applications.",
-  "licensingInfo" : "Open Source",
-  "parentCategoryId" : "420"
-}, {
-  "itemName" : "<a href='https://developer.jboss.org/wiki/JBossSX'target='_blank'>JBOSS SX</a>",
-  "itemDescription" : "JBoss security framework. Default implementation is based on JAAS. Implements standard J2EE authentication and authorization but also supports extended security models with SecurityProxy and SecurityAssociation implementations.\n \nJAAS based implementation enables pluggable authentication modules (PAMs) which is a way to integrate with existing authentication frameworks in your enterprise.\n- See more at: https://developer.jboss.org/wiki/JBossSX#sthash.bsskUYSh.dpuf",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "420"
 }, {
@@ -1087,6 +1251,11 @@
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "950"
 }, {
+  "itemName" : "<a href='http://hudson-ci.org/'target='_blank'>Hudson</a>",
+  "itemDescription" : "Hudson is a continuous integration (CI) tool written in Java, which runs in a servlet container, such as Apache Tomcat or the GlassFish application server. It supports SCM tools including CVS, Subversion, Git, Perforce, Clearcase and RTC, and can execute Apache Ant and Apache Maven based projects, as well as arbitrary shell scripts and Windows batch commands",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "950"
+}, {
   "itemName" : "<a href='https://maven.apache.org/'target='_blank'>Maven</a>",
   "itemDescription" : "Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.",
   "licensingInfo" : "Open Source",
@@ -1110,6 +1279,21 @@
   "itemName" : "<a href='https://netbeans.org/'target='_blank'>NetBeans</a>",
   "itemDescription" : "Quickly and easily develop desktop, mobile and web applications\nwith Java, HTML5, PHP, C/C++ and more.\nNetBeans IDE is FREE, open source, and has a worldwide community\nof users and developers.",
   "licensingInfo" : "Open Source",
+  "parentCategoryId" : "970"
+}, {
+  "itemName" : "<a href='http://www-03.ibm.com/software/products/en/application'target='_blank'>IBM Rational Application Developer</a>",
+  "itemDescription" : "BM® Rational® Application Developer for WebSphere® Software accelerates the development, quality assurance, and deployment of Java, Java EE, Web 2.0, mobile, portal and service-oriented architecture (SOA) applications for distributed platforms and IBM Bluemix. Both expert and novice developers can increase productivity and efficiency by using its many integrated capabilities for easier development, testing, analysis and delivery of applications.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "970"
+}, {
+  "itemName" : "<a href='http://www.jboss.org/products/devstudio/overview/'target='_blank'>Jboss Developer Studio</a>",
+  "itemDescription" : "Boss® Developer Studio provides superior support for your entire development lifecycle. It includes a broad set of tooling capabilities and support for multiple programming models and frameworks, including Java™ Enterprise Edition 6, RichFaces, JavaServer Faces (JSF), Enterprise JavaBeans (EJB), Java Persistence API (JPA), and Hibernate®, JAX-RS with RESTEasy, Contexts Dependency Injection (CDI), HTML5, and many other popular technologies. It provides developer choice in supporting multiple JVMs, productivity with Maven, and in testing with Arquillian. It is fully tested and certified to ensure that all its plug-ins, runtime components, and their dependencies are compatible with each othe",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "970"
+}, {
+  "itemName" : "<a href='http://www-306.ibm.com/software/integration/wid/'target='_blank'>Websphere Integration Developer</a>",
+  "itemDescription" : "WebSphere Integration Developer (WID) is an integrated development environment for building applications based on service-oriented architecture (SOA). It is the authoring tool for WebSphere Process Server and WebSphere ESB V6.0.\nWID is built on top of IBM Rational Application Developer V7.0 Eclipse based technology.",
+  "licensingInfo" : "Commercial",
   "parentCategoryId" : "970"
 }, {
   "itemName" : "<a href='http://www.jasperassistant.com/'target='_blank'>JasperAssistant</a>",
@@ -1155,6 +1339,26 @@
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "2060"
 }, {
+  "itemName" : "<a href='http://findbugs.sourceforge.net/'target='_blank'>FindBugs</a>",
+  "itemDescription" : "FindBugs, a program which uses static analysis to look for bugs in Java code.  It is free software, distributed under the terms of the Lesser GNU Public License. The name FindBugs™ and the FindBugs logo are trademarked by The University of Maryland. FindBugs has been downloaded more than a million times.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "981"
+}, {
+  "itemName" : "<a href='http://findbugs.sourceforge.net/'target='_blank'>FindBugs</a>",
+  "itemDescription" : "FindBugs, a program which uses static analysis to look for bugs in Java code.  It is free software, distributed under the terms of the Lesser GNU Public License. The name FindBugs™ and the FindBugs logo are trademarked by The University of Maryland. FindBugs has been downloaded more than a million times.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "2060"
+}, {
+  "itemName" : "<a href='http://www.ucdetector.org/'target='_blank'>UCDetector</a>",
+  "itemDescription" : "UCDetector (Unnecessary Code Detector - pronounced \"You See Detector\") is a eclipse PlugIn tool to find unnecessary (dead) public java code. For example public classes, methods or fields which have no references. UCDetector creates markers for the following problems, which appear in the eclipse problem view:\nUnnecessary (dead) code\nCode where the visibility could be changed to protected, default or private\nMethods of fields, which can be final",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "981"
+}, {
+  "itemName" : "<a href='http://www.ucdetector.org/'target='_blank'>UCDetector</a>",
+  "itemDescription" : "UCDetector (Unnecessary Code Detector - pronounced \"You See Detector\") is a eclipse PlugIn tool to find unnecessary (dead) public java code. For example public classes, methods or fields which have no references. UCDetector creates markers for the following problems, which appear in the eclipse problem view:\nUnnecessary (dead) code\nCode where the visibility could be changed to protected, default or private\nMethods of fields, which can be final",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "2060"
+}, {
   "itemName" : "<a href='http://subclipse.tigris.org/servlets/ProjectProcess?pageID=p4wYuA'target='_blank'>Subclipse</a>",
   "itemDescription" : "An Eclipse Team Provider plug-in providing support for Subversion within the Eclipse IDE. Developed and maintained by Subversion core committers, Subclipse is always in synch with the latest Subversion features and releases - See more at: http://marketplace.eclipse.org/content/subclipse#sthash.1isw5nFj.dpuf",
   "licensingInfo" : "Commercial",
@@ -1178,6 +1382,11 @@
 }, {
   "itemName" : "<a href='http://junit.org/'target='_blank'>Junit</a>",
   "itemDescription" : "JUnit is a simple framework to write repeatable tests. It is an instance of the xUnit architecture for unit testing frameworks.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1000"
+}, {
+  "itemName" : "<a href='http://sourceforge.net/projects/ddsteps/'target='_blank'>DDSteps</a>",
+  "itemDescription" : "JUnit extension making test cases data driven. Uses external test data (in Excel, XML etc) which is injected into your test case using standard JavaBeans properties. Data enables and integrates toolkits such as jWebUnit and DbUnit. 100% JUnit compatible.",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "1000"
 }, {
@@ -1205,6 +1414,17 @@
   "itemDescription" : "TestNG is a testing framework for the Java programming language inspired by JUnit and NUnit. The design goal of TestNG is to cover a wider range of test categories: unit, functional, end-to-end, integration, etc., with more powerful and easy-to-use functionalities.",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "1000"
+}, {
+  "itemName" : "<a href='http://www.parasoft.com/java_testing'target='_blank'>Jtest</a>",
+  "itemDescription" : "Jtest is an automated Java software testing and static analysis product that is made by Parasoft. The product includes technology for Unit test-case generation and execution, static analysis, regression testing, runtime error detection, and Design by contract.[1] [2] [3][4] Jtest is used by companies such as Cisco Systems, TransCore, AIG United Guaranty and Wipro Technologies.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "1000"
+}, {
+  "itemName" : "<a href='https://github.com/xunit/xunit'target='_blank'>xUnit</a>",
+  "itemDescription" : "xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1000",
+  "platform" : ".Net"
 }, {
   "itemName" : "<a href='http://www.seleniumhq.org/'target='_blank'>Selenium</a>",
   "itemDescription" : "Selenium automates browsers. That's it! What you do with that power is entirely up to you. Primarily, it is for automating web applications for testing purposes, but is certainly not limited to just that. Boring web-based administration tasks can (and should!) also be automated as well.",
@@ -1241,6 +1461,16 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "1050"
 }, {
+  "itemName" : "<a href='http://www.soapui.org/'target='_blank'>SoapUI</a>",
+  "itemDescription" : "SoapUI is the world leading Open Source Functional Testing Tool, mainly it is used for API Testing .\nSoapUI supports multiple protocols such as SOAP, REST, HTTP, JMS, AMF and JDBC.\nSoapUI enables you to create advanced Performance Tests very quickly and run Automated Functional Tests.",
+  "licensingInfo" : "Open Source/Commerical",
+  "parentCategoryId" : "1050"
+}, {
+  "itemName" : "<a href='http://watir.com/'target='_blank'>Watir</a>",
+  "itemDescription" : "Watir, pronounced water, is an open-source (BSD) family of Ruby libraries for automating web browsers. It allows you to write tests that are easy to read and maintain. It is simple and flexible.\n\nWatir drives browsers the same way people do. It clicks links, fills in forms, presses buttons. Watir also checks results, such as whether expected text appears on the page.\n\nWatir is a family of Ruby libraries but it supports your app no matter what technology it is developed in. Whilst Watir supports only Internet Explorer on Windows, Watir-WebDriver supports Chrome, Firefox, Internet Explorer, Opera and also running in headless mode (HTMLUnit).",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1050"
+}, {
   "itemName" : "<a href='http://naver.github.io/ngrinder/'target='_blank'>Ngrinder</a>",
   "itemDescription" : "nGrinder (pronounced as en-g-ra-in-der) is a stress tests platform that enables you to create test scripts, execute tests, monitor target servers and generate results simultaneously. The open-source nGrinder offers easy ways to conduct stress tests by eliminating inconveniences and providing integrated environments. It uses the renowned performance test tool, The Grinder, as its internal engine",
   "licensingInfo" : "Open Source",
@@ -1255,6 +1485,31 @@
   "itemDescription" : "ab is a tool for benchmarking your Apache Hypertext Transfer Protocol (HTTP) server. It is designed to give you an impression of how your current Apache installation performs. This especially shows you how many requests per second your Apache installation is capable of serving.",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "1051"
+}, {
+  "itemName" : "<a href='http://www.neotys.com/product/overview-neoload.html'target='_blank'>NeoLoad</a>",
+  "itemDescription" : "NeoLoad is a load testing software solution designed for web and mobile applications to realistically simulate user activity and monitor infrastructure behavior.\nNeoLoad's exclusive technology allows you to perform web testing more quickly, efficiently, and frequently, which means you can immediately identify the root cause of any bottlenecks or issues.\nWe make it easy for you to assess the performance and reliability of your apps so they meet business and user experience expectations",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "1051"
+}, {
+  "itemName" : "<a href='http://radview.com/website-load-testing-tools/'target='_blank'>Web Load</a>",
+  "itemDescription" : "WebLOAD is load testing tool, performance testing, stress test web applications. This web and mobile load testing and analysis tool is from RadView Software. Load testing tool WebLOAD combines performance, scalability, and integrity as a single process for the verification of web and mobile applications.[1][2][3] It can simulate hundreds of thousands of concurrent users making it possible to test large loads and report bottlenecks, constraints, and weak points within an application.[",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "1051"
+}, {
+  "itemName" : "<a href='http://www.borland.com/Products/Other-Borland-products/Qaload'target='_blank'>QALoad</a>",
+  "itemDescription" : "QALoad® ensures that application performance and scalability meets business expectations and identifies problems before applications go live. QALoad simulates thousands of application users while collecting key application scalability and performance metrics. It gives you the ability to understand end user performance and application bottlenecks while making informed decisions on how to address them.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "1051"
+}, {
+  "itemName" : "<a href='http://jmeter.apache.org/'target='_blank'>Jmeter</a>",
+  "itemDescription" : "The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1051"
+}, {
+  "itemName" : "<a href='http://jmeter.apache.org/'target='_blank'>Jmeter</a>",
+  "itemDescription" : "The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "631"
 }, {
   "itemName" : "<a href='https://whirr.apache.org/'target='_blank'>Apache Whirr</a>",
   "itemDescription" : "Apache Whirr is a set of libraries for running cloud services.\n\nWhirr provides:\n\nA cloud-neutral way to run services. You don't have to worry about the idiosyncrasies of each provider.\nA common service API. The details of provisioning are particular to the service.\nSmart defaults for services. You can get a properly configured system running quickly, while still being able to override settings as needed.\nYou can also use Whirr as a command line tool for deploying clusters.",
@@ -1306,6 +1561,21 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "1251"
 }, {
+  "itemName" : "<a href='https://www.mediawiki.org/wiki/MediaWiki'target='_blank'>MediaWiki</a>",
+  "itemDescription" : "MediaWiki is a free software open source wiki package written in PHP, originally for use on Wikipedia. It is now also used by several other projects of the non-profit Wikimedia Foundation and by many other wikis, including this website, the home of MediaWiki.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1251"
+}, {
+  "itemName" : "<a href='http://twiki.org/'target='_blank'>Twiki</a>",
+  "itemDescription" : "Twiki is a flexible, powerful, and easy to use enterprise wiki, enterprise collaboration platform, and web application platform. It is a Structured Wiki, typically used to run a project development space, a document management system, a knowledge base, or any other groupware tool, on an intranet, extranet or the Internet",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1251"
+}, {
+  "itemName" : "<a href='https://www.openproject.org/'target='_blank'>OpenProject</a>",
+  "itemDescription" : "OpenProject is free and open source software for project management with a wide set of features and plugins and an active international community",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1251"
+}, {
   "itemName" : "<a href='https://www.atlassian.com/software/jira'target='_blank'>Jira</a>",
   "itemDescription" : "JIRA is the tracker for teams planning and building great products. Thousands of teams choose JIRA to capture and organize issues, assign work, and follow team activity. At your desk or on the go with the new mobile interface, JIRA helps your team get the job done",
   "licensingInfo" : "Commercial",
@@ -1320,6 +1590,16 @@
   "itemDescription" : "Eventum is a user-friendly and flexible issue tracking system that can be used by a support department to track incoming technical support requests, or by a software development team to quickly organize tasks and bugs.",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "1252"
+}, {
+  "itemName" : "<a href='http://www.ibm.com/software/awdtools/clearquest/'target='_blank'>Rational Clear Quest</a>",
+  "itemDescription" : "Rational ClearQuest is an enterprise level workflow automation tool from the Rational Software division of IBM. Commonly, ClearQuest is configured as a bug tracking system, but it can be configured to act as a CRM tool or to track a complex manufacturing process. It can also implement these functions together. IBM provides a number of predefined \"schemas\" for common tasks such as software Defect Tracking which can themselves be further customized if required.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "1252"
+}, {
+  "itemName" : "<a href='http://www.ibm.com/software/awdtools/clearquest/'target='_blank'>Rational Clear Quest</a>",
+  "itemDescription" : "Rational ClearQuest is an enterprise level workflow automation tool from the Rational Software division of IBM. Commonly, ClearQuest is configured as a bug tracking system, but it can be configured to act as a CRM tool or to track a complex manufacturing process. It can also implement these functions together. IBM provides a number of predefined \"schemas\" for common tasks such as software Defect Tracking which can themselves be further customized if required.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "2020"
 }, {
   "itemName" : "<a href='http://www.eclipse.org/mylyn/'target='_blank'>Mylyn</a>",
   "itemDescription" : "Mylyn's task-focused interface   reduces information overload and makes multitasking easy. Mylyn makes tasks a first class part of the IDE, integrates rich and offline editing for ALM tools, and monitors your programming activity to create a \"task context\" that focuses your workspace and automatically links all relevant artifacts to the task-at-hand. This puts the information you need at your fingertips and improves productivity by reducing information overload, facilitating multitasking and easing the sharing of expertise",
@@ -1336,12 +1616,15 @@
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "1301"
 }, {
+  "itemName" : "<a href='http://projects.spring.io/spring-batch/'target='_blank'>Spring Batch</a>",
+  "itemDescription" : "Spring Batch provides reusable functions that are essential in processing large volumes of records, including logging/tracing, transaction management, job processing statistics, job restart, skip, and resource management. It also provides more advanced technical services and features that will enable extremely high-volume and high performance batch jobs through optimization and partitioning techniques. Simple as well as complex, high-volume batch jobs can leverage the framework in a highly scalable manner to process significant volumes of information",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1301"
+}, {
   "itemName" : "<a href='https://www.sqlite.org/'target='_blank'>SQLite</a>",
   "itemDescription" : "SQLite is an in-process library that implements a self-contained, serverless, zero-configuration, transactional SQL database engine. The code for SQLite is in the public domain and is thus free for use for any purpose, commercial or private. SQLite is the most widely deployed database in the world with more applications than we can count, including several high-profile projects.",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "1350"
-}, {
-  "parentCategoryId" : "1351"
 }, {
   "itemName" : "<a href='http://project-voldemort.com/'target='_blank'>Project Voldemort</a>",
   "itemDescription" : "Voldemort is a distributed key-value storage system",
@@ -1432,17 +1715,42 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "1350"
 }, {
-  "itemName" : "Spotlight on MySQL",
+  "itemName" : "<a href='http://db.apache.org/derby/'target='_blank'>Apache Derby</a>",
+  "itemDescription" : "Apache Derby, an Apache DB subproject, is an open source relational database implemented entirely in Java and available under the Apache License, Version 2.0. Some key advantages include:\n\nDerby has a small footprint -- about 2.6 megabytes for the base engine and embedded JDBC driver.\nDerby is based on the Java, JDBC, and SQL standards.\nDerby provides an embedded JDBC driver that lets you embed Derby in any Java-based solution.\nDerby also supports the more familiar client/server mode with the Derby Network Client JDBC driver and Derby Network Server.\nDerby is easy to install, deploy, and use.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1350"
+}, {
+  "itemName" : "<a href='http://www.firebirdsql.org/'target='_blank'>Fire bird</a>",
+  "itemDescription" : "Firebird is an open source SQL relational database management system that runs on Linux, Microsoft Windows, and a variety of Unix. The database forked from Borland's open source edition of InterBase in 2000, but since Firebird 1.5 the code has been largely rewritten.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1350"
+}, {
+  "itemName" : "<a href='http://hsqldb.org/'target='_blank'>HSQL </a>",
+  "itemDescription" : "HSQLDB (HyperSQL DataBase) is the leading SQL relational database software written in Java. It offers a small, fast multithreaded and transactional database engine with in-memory and disk-based tables and supports embedded and server modes. It includes a powerful command line SQL tool and simple GUI query tools.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1350"
+}, {
+  "itemName" : "<a href='http://www.embarcadero.com/products/interbase'target='_blank'>Interbase</a>",
+  "itemDescription" : "InterBase is a relational database management system (RDBMS) currently developed and marketed by Embarcadero Technologies. InterBase is distinguished from other RDBMSs by its small footprint, close to zero administration requirements, and multi-generational architecture.[1] InterBase runs on the Microsoft Windows, Linux, Mac OS X, Solaris operating systems as well as iOS and Android.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1350"
+}, {
+  "itemName" : "<a href='http://techpubs.borland.com/books/bes/htmls/JDataStoreDevelopersGuide/jdsdevguide/beg_tutor.html'target='_blank'>JDataStore</a>",
+  "itemDescription" : "JDataStore ist ein plattformunabhängiges Datenbanksystem, welches in Java implementiert ist. JDataStore unterstützt Sun JDK 1.4 und basiert auf dem SQL92-Standard. Es ermöglicht eine enge Integration in Borland JBuilder und andere Java-Entwicklungsumgebungen wie IBM Visual Age",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1350"
+}, {
+  "itemName" : "<a href='http://software.dell.com/products/spotlight-on-mysql/'target='_blank'>Spotlight on MySQL</a>",
   "itemDescription" : "Spotlight on MySQL diagnoses MySQL problems in real time by graphically displaying all database activity in an intuitive user interface, enabling you to respond quickly to issues that need attention.",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "1354"
 }, {
-  "itemName" : "phpMyAdmin",
+  "itemName" : "<a href='http://www.phpmyadmin.net/home_page/index.php'target='_blank'>phpMyAdmin</a>",
   "itemDescription" : "phpMyAdmin is a free software tool written in PHP, intended to handle the administration of MySQL over the Web. phpMyAdmin supports a wide range of operations on MySQL, MariaDB and Drizzle",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "1354"
 }, {
-  "itemName" : "SchemaSpy",
+  "itemName" : "<a href='http://schemaspy.sourceforge.net/'target='_blank'>SchemaSpy</a>",
   "itemDescription" : "SchemaSpy is a Java-based tool (requires Java 5 or higher) that analyzes the metadata of a schema in a database and generates a visual representation of it in a browser-displayable format. It lets you click through the hierarchy of database tables via child and parent table relationships as represented by both HTML links and entity-relationship diagrams. It's also designed to help resolve the obtuse errors that a database sometimes gives related to failures due to constraints",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "1354"
@@ -1532,6 +1840,21 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "1370"
 }, {
+  "itemName" : "<a href='https://www.dbvis.com/'target='_blank'>DBVisualizer</a>",
+  "itemDescription" : "DbVisualizer is the universal database tool for developers,  DBAs and analysts. It is the perfect solution since the same tool can be used on all major operating systems accessing a wide range of databases.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "1370"
+}, {
+  "itemName" : "<a href='http://openjpa.apache.org/'target='_blank'>OpenJPA</a>",
+  "itemDescription" : "Apache OpenJPA is a Java persistence project at The Apache Software Foundation that can be used as a stand-alone POJO persistence layer or integrated into any Java EE compliant container and many other lightweight frameworks, such as Tomcat and Spring.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1372"
+}, {
+  "itemName" : "<a href='http://hibernate.org/orm/'target='_blank'>Hibernate</a>",
+  "itemDescription" : "Hibernate ORM enables developers to more easily write applications whose data outlives the application process. As an Object/Relational Mapping (ORM) framework, Hibernate is concerned with data persistence as it applies to relational databases (via JDBC). ",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1372"
+}, {
   "itemName" : "<a href='https://msdn.microsoft.com/en-us/library/dd541486.aspx'target='_blank'>Etag</a>",
   "itemDescription" : "The ETag or entity tag is part of HTTP, the protocol for the World Wide Web. It is one of several mechanisms that HTTP provides for web cache validation, and which allows a client to make conditional requests",
   "licensingInfo" : "Open Source",
@@ -1577,6 +1900,16 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "1450"
 }, {
+  "itemName" : "<a href='http://tibco.com/'target='_blank'>Tibco</a>",
+  "itemDescription" : "TIBCO Software Inc. is an American company that provides message queue software for companies to use on-premises or as part of cloud computing environments. The software manages information, decisions, processes and applications for over 4,000 customers",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "1450"
+}, {
+  "itemName" : "<a href='http://activemq.apache.org/'target='_blank'>ActiveMQ</a>",
+  "itemDescription" : "Apache ActiveMQ ™ is the most popular and powerful open source messaging and Integration Patterns server.\nApache ActiveMQ is fast, supports many Cross Language Clients and Protocols, comes with easy to use Enterprise Integration Patterns and many advanced features while fully supporting JMS 1.1 and J2EE 1.4. Apache ActiveMQ is released under the Apache 2.0 License",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1450"
+}, {
   "itemName" : "<a href='https://jackrabbit.apache.org/jcr/index.html'target='_blank'>Apache Jackrabbit</a>",
   "itemDescription" : "The Apache Jackrabbit? content repository is a fully conforming implementation of the Content Repository for Java Technology API (JCR, specified in JSR 170 and 283).\n\nA content repository is a hierarchical content store with support for structured and unstructured content, full text search, versioning, transactions, observation, and more.",
   "licensingInfo" : "Open Source",
@@ -1589,6 +1922,11 @@
 }, {
   "itemName" : "<a href='https://www.oracle.com/applications/customer-experience/crm/index.html'target='_blank'>Oracle CRM</a>",
   "itemDescription" : "Oracle CRM is divided into a number of different product lines. Oracle entered the CRM market following its acquisition of Siebel Systems in September 2005 and later acquired UpShot CRM which offered a more robust user interface than the legacy Siebel On Demand product.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "2020"
+}, {
+  "itemName" : "<a href='http://www.openemm.org/'target='_blank'>OpenEMM</a>",
+  "itemDescription" : "OpenEMM is web-based enterprise application for email marketing, marketing automation, email newsletter and service emails (like transaction emails and event or time triggered emails) and lead management. To summarize it, OpenEMM is a tool for customer relationship management by email.",
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "2020"
 }, {
@@ -1612,6 +1950,16 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "2040"
 }, {
+  "itemName" : "<a href='http://www.ibm.com/software/products/en/clearcase'target='_blank'>Rational Clearcase</a>",
+  "itemDescription" : "Rational ClearCase is a family of computer software tools that supports software configuration management (SCM) of source code and other software development assets. It includes revision control. ClearCase forms the basis for configuration management at large and medium-sized businesses and can accommodate projects with hundreds or thousands of developers. It is developed by IBM",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "2040"
+}, {
+  "itemName" : "<a href='http://www.perforce.com/'target='_blank'>Perforce</a>",
+  "itemDescription" : "Perforce is a commercial, proprietary revision control system developed by Perforce Software",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "2040"
+}, {
   "itemName" : "<a href='http://svnkit.com/'target='_blank'>SVNKit</a>",
   "itemDescription" : "SVNKit is an Open Source, pure Java software library for working with the Subversion version control system. It is free to use on opensource projects but requires that you buy a commercial license to use to develop with proprietary software. It implements virtually all Subversion features and provides API to work with Subversion working copies, access and manipulate Subversion repositories.",
   "licensingInfo" : "Open Source",
@@ -1627,6 +1975,16 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "2060"
 }, {
+  "itemName" : "<a href='http://jcodereview.sourceforge.net/'target='_blank'>JCR - Java code reviewer</a>",
+  "itemDescription" : "JCR (or jcodereview as it's known on Sourceforge) is a web application for performing and managing formal code reviews. It can be used for reviews of any type of source code, although it has some special smarts for reviewing Java projects. It has special features to make large-scale reviews not only practical but easy and fast. JCR is intended to assist",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "2060"
+}, {
+  "itemName" : "<a href='http://www.klocwork.com/'target='_blank'>Klocwork</a>",
+  "itemDescription" : "Klocwork is a software company with headquarters in Burlington, MA and R&D based in Ottawa, ON, Canada. Klocwork was founded in 2001 as a spin-out of Nortel Networks and has over 1,000 customers[1] who use its software development tools. Klocwork says their tool help \"developers create more secure and reliable software by analyzing source code on-the-fly, simplifying peer code reviews, and extending the life of complex software",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "2060"
+}, {
   "itemName" : "<a href='http://logging.apache.org/log4j'target='_blank'>log4j</a>",
   "itemDescription" : "Apache Log4j 2 is an upgrade to Log4j that provides significant improvements over its predecessor, Log4j 1.x, and provides many of the improvements available in Logback while fixing some inherent problems in Logback's architecture.",
   "licensingInfo" : "Open Source",
@@ -1639,6 +1997,11 @@
 }, {
   "itemName" : "<a href='https://terracotta.org'target='_blank'>Terracota</a>",
   "itemDescription" : "Terracotta Enterprise Suite is designed for any business and industry with high data volume, and a need for distributed in-memory management for performance and availability at scale.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "2080"
+}, {
+  "itemName" : "<a href='http://www.gigaspaces.com/'target='_blank'>GigaSpaces eXtreme Application Platform</a>",
+  "itemDescription" : "GigaSpaces eXtreme Application Platform (XAP), is a distributed in-memory data-grid suited for high performance and low-latency transaction processing as well as real-time analytics use cases. XAP performance is achieved by maximizing the utilization of RAM and SSD as the main data store. It is commonly used to speed up existing database performance and scalability and include built-in synchronization with RDBS such as MySQL as well as new databases such as MongoDB, Cassandra etc. XAP was designed to serve as the system of record for the data that it maintains. Therefore, it support all the features of databases such as complex queries, transaction support etc. Among its main features is support for a wide range of data models starting from a simple key,value API to advance aggregation, Object Graph and SQL support",
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "2080"
 }, {
@@ -1674,6 +2037,21 @@
 }, {
   "itemName" : "<a href='https://www.alfresco.com/'target='_blank'>Alfresco</a>",
   "itemDescription" : "Alfresco includes a content repository, an out-of-the-box, web-based user interface for managing and using standard portal content, a CIFS interface that provides file system compatibility on Microsoft Windows and Unix-like operating systems, Luceneand Solr indexing, and Activiti workflow. The Alfresco system is developed using Java technology.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3010"
+}, {
+  "itemName" : "<a href='http://www.joomla.org/'target='_blank'>Joomla</a>",
+  "itemDescription" : "Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3010"
+}, {
+  "itemName" : "<a href='http://www.emc.com/enterprise-content-management/index.htm'target='_blank'>Documentum</a>",
+  "itemDescription" : "Documentum is an enterprise content management platform, now owned by EMC Corporation, as well as the name of the software company that originally developed the technology. EMC acquired Documentum for $1.7 billion in December, 2003.[1] The Documentum platform is part of EMC's Enterprise Content Division (ECD) business unit, one of EMC's four operating divisions.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3010"
+}, {
+  "itemName" : "<a href='https://wordpress.org/'target='_blank'>WordPress</a>",
+  "itemDescription" : "WordPress is a free and open-source tool and a content management system (CMS) based on PHP and MySQL.[5] Features include a plugin architecture and a template system. WordPress was used by more than 23.3% of the top 10 million websites as of January 2015.[6] WordPress is the most popular blogging system in use on the Web,[7] at more than 60 million websites",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "3010"
 }, {
@@ -1717,6 +2095,26 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "3025"
 }, {
+  "itemName" : "<a href='http://www.microsoft.com/en-us/server-cloud/products/biztalk/'target='_blank'>Microsoft BizTalk Server</a>",
+  "itemDescription" : "Microsoft BizTalk Server (or simply \"BizTalk\") enables companies to automate business processes, through the use of adapters which are tailored to communicate with different software systems used in an enterprise. Created by Microsoft, it provides enterprise application integration, business process automation, business-to-business communication, message broker and business activity monitoring.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3025"
+}, {
+  "itemName" : "<a href='http://servicemix.apache.org/'target='_blank'>Apache Service Mix</a>",
+  "itemDescription" : "Apache ServiceMix is a flexible, open-source integration container that unifies the features and functionality of Apache ActiveMQ, Camel, CXF, and Karaf into a powerful runtime platform you can use to build your own integrations solutions. It provides a complete, enterprise ready ESB exclusively powered by OSGi.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3025"
+}, {
+  "itemName" : "<a href='http://docs.oracle.com/cd/E13171_01/alsb/docs20/tutorial/tutIntro.html'target='_blank'>BEA AquaLogic Service Bus</a>",
+  "itemDescription" : "BEA AquaLogic Service Bus—part of BEA's new family of Service Infrastructure Products (AquaLogic)—combines intelligent message brokering with service monitoring and administration to provide a unified software product for implementing and deploying your Service-Oriented Architecture (SOA). This converged approach adds a scalable, dynamic routing and transformation layer to your enterprise infrastructure, plus service lifecycle management capabilities for service registration, service usage, and Service Level Agreement (SLA) enforcement.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3025"
+}, {
+  "itemName" : "<a href='http://www.tibco.co.in/products/automation/application-integration/activematrix-businessworks'target='_blank'>Tibco Active Matrix Business Works</a>",
+  "itemDescription" : "TIBCO ActiveMatrix BusinessWorks [1] is a Business Integration product from TIBCO Software. Part of the TIBCO ActiveMatrix platform, BusinessWorks is typically used by enterprises for Application Integration, Process Orchestration and Service Enablement, often as a part of a wider Enterprise SOA initiative.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3025"
+}, {
   "itemName" : "<a href='http://www.modular-infotech.com/html/shreelipi.html'target='_blank'>Shree Lipi</a>",
   "itemDescription" : "Shree-Lipi Soft and Shree-Lipi Pearl software are multilingual packages. There are language special packages, which give more stress on a particular script, while still supporting the other scripts. ",
   "licensingInfo" : "Commercial",
@@ -1725,4 +2123,114 @@
   "itemName" : "<a href='http://www.google.com/inputtools/windows/'target='_blank'>Google input Tool</a>",
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "3040"
+}, {
+  "itemName" : "<a href='https://cloud.google.com/translate/docs?csw=1'target='_blank'>Google Translate</a>",
+  "itemDescription" : "With Google Translate, you can dynamically translate text between thousands of language pairs.\n\nThe Google Translate API lets websites and programs integrate with Google Translate programmatically.\n\nGoogle Translate API is available as a paid service. ",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3040"
+}, {
+  "itemName" : "<a href='http://cdac.in/index.aspx?id=mlc_gist_webapp'target='_blank'>CDAC - Gist</a>",
+  "itemDescription" : "GIST endeavors to provide all kinds of tools and support to facilitate the exchange of information in Indian languages on the web. In doing so, some of the web centric applications developed, include; GIST Mail and Talaash.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3040"
+}, {
+  "itemName" : "<a href='https://cloud.google.com/appengine/docs'target='_blank'>Google App Engine</a>",
+  "itemDescription" : "Google App Engine lets you build and run applications on Google’s infrastructure. App Engine applications are easy to create, easy to maintain, and easy to scale as your traffic and data storage needs change. With App Engine, there are no servers for you to maintain. You simply upload your application and it’s ready to go.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3050"
+}, {
+  "itemName" : "<a href='http://www.wavemaker.com/'target='_blank'>WaveMaker</a>",
+  "itemDescription" : "WaveMaker Enterprise is a licensed software that enables organizations to run their own end-to-end application platform-as-a-service (aPaaS) for rapidly building and efficiently running custom apps.[2] It also allows developers and business users to work with standard enterprise-grade technologies to immediately create apps that can be easily extended or customized. Those apps can consume APIs, visualize data for insights and automatically support multi-device responsive interfaces",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3050"
+}, {
+  "itemName" : "<a href='http://www.ca.com/in/securecenter/ca-single-sign-on.aspx'target='_blank'>CA Single Sign-on (Site Minder)</a>",
+  "itemDescription" : "CA Single Sign-On can provide your organization enterprise-class secure single sign-on (SSO) and flexible identity access management so that your organization can authenticate users and control access to Web applications and portals. Across Internet, intranet and cloud applications, it helps enable the secure delivery of essential information and applications to your employees, partners, suppliers and customers via secure single sign-on. It also scales to help you meet your growing business needs with flexible administration tools that can support either centralized or distributed administration.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3060"
+}, {
+  "itemName" : "<a href='https://developer.jboss.org/wiki/JBossSX'target='_blank'>JBOSS SX</a>",
+  "itemDescription" : "JBoss security framework. Default implementation is based on JAAS. Implements standard J2EE authentication and authorization but also supports extended security models with SecurityProxy and SecurityAssociation implementations.\n \nJAAS based implementation enables pluggable authentication modules (PAMs) which is a way to integrate with existing authentication frameworks in your enterprise.\n- See more at: https://developer.jboss.org/wiki/JBossSX#sthash.bsskUYSh.dpuf",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3060"
+}, {
+  "itemName" : "<a href='https://www.sailpoint.com/products/identityiq'target='_blank'>SailPoint IdentityIQ</a>",
+  "itemDescription" : "IdentityIQ is SailPoint's governance-based Identity and Access Management (IAM) software solution that delivers a unified approach to compliance, password management and provisioning activities for applications running on-premises or from the cloud. IdentityIQ meets the needs of large organizations with complex IAM processes who prefer to tailor their solution to align with unique business needs.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3060"
+}, {
+  "itemName" : "<a href='https://www.atlassian.com/software/crowd/overview'target='_blank'>Crowd</a>",
+  "itemDescription" : "Crowd is a single sign-on and user identity tool that's easy to use, administer, and integrate.\n\nUsers can come from anywhere: Active Directory, LDAP, Crowd itself, or any mix thereof. Control permissions to all your applications in one place – Atlassian, Subversion, Google Apps, or your own apps",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3060"
+}, {
+  "itemName" : "<a href='http://wso2.com/products/identity-server/'target='_blank'>WSO2 Identity Server</a>",
+  "itemDescription" : "WSO2 Identity Server provides sophisticated security and identity management of enterprise web applications, services, and APIs, and makes life easier for developers and architects with its hassle-free, minimal monitoring and maintenance requirements. In its latest version, Identity Server acts as an Enterprise Identity Bus (EIB) — a central backbone to connect and manage multiple identities regardless of the standards on which they are based",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3060"
+}, {
+  "itemName" : "<a href='https://www.google.co.in/webmasters/'target='_blank'>Google Webmaster Tools</a>",
+  "itemDescription" : "Google Webmaster Tools(also called Google Search Console[1][2]) is a no-charge web service by Google for webmasters. As of May 20, 2015, Google rebranded Google Webmaster Tools as Google Search Console.[3] It allows webmasters to check indexing status and optimize visibility of their websites",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3065"
+}, {
+  "itemName" : "<a href='http://www.google.com/analytics'target='_blank'>Google Analytics</a>",
+  "itemDescription" : "Google Analytics is a freemium web analytics service offered by Google that tracks and reports website traffic.[1] Google launched the service in November 2005 after acquiring Urchin.[2] Google Analytics is now the most widely used web analytics service on the Internet.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3065"
+}, {
+  "itemName" : "<a href='http://www.omniture.com/'target='_blank'>Omniture</a>",
+  "itemDescription" : "Omniture is an online marketing and web analytics business unit in Orem, Utah. It was acquired by Adobe Systems in 2009. Until 2011, Omniture operated as a business unit within Adobe as the \"Omniture Business Unit\", but as of 2012 Adobe began retiring the Omniture name as former Omniture products were integrated into the Adobe Marketing Cloud",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3065"
+}, {
+  "itemName" : "<a href='http://www.oracle.com/us/products/applications/atg/web-commerce/index.html'target='_blank'>Oracle ATG </a>",
+  "itemDescription" : "Oracle ATG Web Commerce enables you to deliver a personalized online buying experience for each customer by presenting relevant content and merchandizing, personalized search, customized marketing programs, and tailored websites. Web commerce capabilities allow you to merchandise more quickly, easily, and effectively, rapidly launch commerce sites for new brands, markets, and even single-purpose campaigns, easily create and manage both simple and complex promotions, use mobile devices and social media to drive sales, and quickly expand internationally and target new countries and segments more effectively.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3066"
+}, {
+  "itemName" : "<a href='http://www-03.ibm.com/software/products/en/category/SW740'target='_blank'>Rational Requisite Pro</a>",
+  "itemDescription" : "Rational RequisitePro helps project teams to manage their requirements, to write good use cases, to improve traceability, to strengthen collaboration, to reduce project rework, and to increase quality",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3070"
+}, {
+  "itemName" : "<a href='https://addons.mozilla.org/en-US/firefox/addon/firebug/'target='_blank'>FireBug</a>",
+  "itemDescription" : "Firebug integrates with Firefox to put a wealth of development tools at your fingertips while you browse. You can edit, debug, and monitor CSS, HTML, and JavaScript live in any web page",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3080"
+}, {
+  "itemName" : "<a href='https://visualvm.java.net/'target='_blank'>VisualVM</a>",
+  "itemDescription" : "VisualVM is a visual tool integrating several commandline JDK tools and lightweight profiling capabilities. Designed for both production and development time use, it further enhances the capability of monitoring and performance analysis for the Java SE platform",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3080"
+}, {
+  "itemName" : "<a href='http://newrelic.com/'target='_blank'>NewRelic</a>",
+  "itemDescription" : "Complete performance visibility for all aspects of your software environment.\nKnow your customer?s true experience with your software.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3080"
+}, {
+  "itemName" : "<a href='https://www.wireshark.org/'target='_blank'>WireShark</a>",
+  "itemDescription" : "Wireshark is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3080"
+}, {
+  "itemName" : "<a href='https://www.ej-technologies.com/products/jprofiler/overview.html'target='_blank'>Jprofiler</a>",
+  "itemDescription" : "JProfiler works both as a stand-alone application and as a plug-in for the Eclipse software development environment.\nJProfiler supports local profiling (analysis of applications running on the same machine as the JProfiler software) and remote profiling (analysis of Java applications running on remote machines).\nEnables both memory profiling to assess memory usage and dynamic allocation leaks and CPU profiling to assess thread conflicts.\nProvides a visual representation for the virtual machine load in terms of active and total bytes, instances, threads, classes, and garbage collector activity.",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3080"
+}, {
+  "itemName" : "<a href='http://www.pushtotest.com/products.html'target='_blank'>TestMaker</a>",
+  "itemDescription" : "TestMaker 6 is the easier way to surface performance bottlenecks and functional issues in Web, Rich Internet Applications (RIA, using Ajax, Flex, Flash,) Service Oriented Architecture (SOA,) and Business Process Management (BPM) applications. TestMaker 6 rapidly puts the PushToTest Methodology into your hands for a test tool that installs on your desktop, runs tests in grid and cloud environments, and pinpoints root causes and offers mitigation. Imagine one open source test tool that repurposes a single test script to be a functional test (smoke tests, regression tests,) load and performance test (scalability tests, stress tests,) and production monitors. That test script is a Selenium test, Sahi test, soapUI test suite, and unit test written in Java, Ruby, Python, and PHP. This is TestMaker 6.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "3080"
+}, {
+  "itemName" : "<a href='http://www.compuware.com'target='_blank'>Vantage Analyzer</a>",
+  "itemDescription" : "Vantage Analyzer (formerly known as DevStream JView) is a J2EE performance profiling tool built for use in production environments. The sophistication of J2EE application environments makes it challenging to provide consistent and acceptable performance. The Vantage Analyzer provides a means for operations teams to quickly eliminate production performance problems by collecting performance information on all of the application level activity in a J2EE environment without impacting applications. Vantage Analyzer provides several easy-to-use views that allow operations staff to zero in on problems without requiring a high level of J2EE expertise. Analyzer’s analysis capabilities simplify the identification of specific problems that are usually very hard to isolate, such as memory leaks, CPU intensive programs and long running SQL statements. Identifying these problems provides immediate opportunities for J2EE scalability, availability and performance improvements",
+  "licensingInfo" : "Commercial",
+  "parentCategoryId" : "3080"
+}, {
+  "itemName" : "<a href='https://eclipse.org/tptp/'target='_blank'>Eclipse TPTP</a>",
+  "itemDescription" : "The Eclipse Test and Performance Tools Platform (TPTP) Project provides an open platform supplying powerful frameworks and services that allow software developers to build unique test and performance tools, both open source and commercial, that can be easily integrated with the platform and with other tools.",
+  "licensingInfo" : "open Source",
+  "parentCategoryId" : "3080"
 } ]
