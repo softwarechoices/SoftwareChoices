@@ -1,10 +1,4 @@
 [ {
-  "itemName" : "<a href='http://hadoop.apache.org/'target='_blank'>Hadoop</a>",
-  "itemDescription" : "Apache Hadoop is a set of algorithms (an open-source software framework written in Java) for distributed storage and distributed processing of very large data sets (Big Data) on computer clusters built from commodity hardware. All the modules in Hadoop are designed with a fundamental assumption that hardware failures (of individual machines, or racks of machines) are commonplace and thus should be automatically handled in software by the framework.",
-  "licensingInfo" : "Open Source",
-  "parentCategoryId" : "100",
-  "platform" : "Java"
-}, {
   "itemName" : "<a href='http://flume.apache.org/'target='_blank'>Apache Flume</a>",
   "itemDescription" : "Flume is a distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data. It has a simple and flexible architecture based on streaming data flows. It is robust and fault tolerant with tunable reliability mechanisms and many failover and recovery mechanisms. It uses a simple extensible data model that allows for online analytic application.",
   "licensingInfo" : "Open Source",
