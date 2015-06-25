@@ -57,6 +57,11 @@
   "licensingInfo" : "Commercial",
   "parentCategoryId" : "120"
 }, {
+  "itemName" : "<a href='http://hortonworks.com/hadoop/falcon/'target='_blank'>Apache Falcon</a>",
+  "itemDescription" : "Apache™ Falcon is a framework for simplifying and orchestrating data management and pipeline processing in Apache Hadoop®. It enables automation of data movement and processing for ingest, pipelines, replication and compliance use cases. Falcon also leverages its integration with YARN—the architectural center of Hadoop—to centrally manage the cluster’s data governance, maximize data pipeline reuse and enforce consistent data lifecycles.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "120"
+}, {
   "itemName" : "<a href='http://hadoop.apache.org/'target='_blank'>MapReduce</a>",
   "itemDescription" : "MapReduce is a programming model for processing and generating large data sets with a parallel, distributed algorithm on a cluster",
   "licensingInfo" : "Open Source",
@@ -111,6 +116,11 @@
   "itemName" : "<a href='http://sqrrl.com/product/sqrrl-enterprise/'target='_blank'>SQRRL</a>",
   "itemDescription" : "Sqrrl is the Big Data Analytics company that lets organizations pinpoint and react to unusual activity by uncovering hidden connections in their data. Sqrrl’s linked data analysis platform gives analysts a way to visually investigate these connections, allowing them to rapidly understand their surrounding contexts and take action - See more at: http://sqrrl.com/product/sqrrl-enterprise/#sthash.GD9h0pLq.dpuf",
   "licensingInfo" : "Commercial",
+  "parentCategoryId" : "140"
+}, {
+  "itemName" : "<a href='https://prestodb.io/'target='_blank'>Presto</a>",
+  "itemDescription" : "Presto is an open source distributed SQL query engine for running interactive analytic queries against data sources of all sizes ranging from gigabytes to petabytes.",
+  "licensingInfo" : "Open Source",
   "parentCategoryId" : "140"
 }, {
   "itemName" : "<a href='https://mrunit.apache.org/'target='_blank'>MRUnit</a>",
@@ -578,6 +588,11 @@
   "parentCategoryId" : "461",
   "platform" : "Windows"
 }, {
+  "itemName" : "<a href='http://www.javacodegeeks.com/2012/12/yammer-metrics-a-new-way-to-monitor-your-application.html'target='_blank'>Yammer Metrics</a>",
+  "itemDescription" : "When you are running long term applications like web applications, it is good to know some statistics about them, like number of requests served, request durations, or the number active requests.\nBut also some more generic information like the state of your internal collections, how many times some portion of code is being executed, or health checks like database availability, or any kind of connection to an external system.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "461"
+}, {
   "itemName" : "<a href='http://www.haproxy.org/'target='_blank'>HAProxy</a>",
   "itemDescription" : "The Reliable, High Performance TCP/HTTP Load Balancer",
   "licensingInfo" : "Open Source",
@@ -1019,6 +1034,16 @@
   "itemDescription" : "Kannel is a compact and very powerful open source WAP and SMS gateway, used widely across the globe both for serving trillions of short messages (SMS), WAP Push service indications and mobile internet connectivity.",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "638"
+}, {
+  "itemName" : "<a href='https://addons.mozilla.org/En-us/firefox/addon/wave-toolbar/'target='_blank'>Wave Toolbar</a>",
+  "itemDescription" : "The WAVE Toolbar provides button options and a menu that will modify the current web page to reveal the underlying accessibility information. It provides an easy-to-use, yet powerful mechanism for evaluating the accessibility and usability of web content for people with disabilities",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "639"
+}, {
+  "itemName" : "<a href='http://achecker.ca/checker/index.php'target='_blank'>Achecker</a>",
+  "itemDescription" : "This tool checks single HTML pages for conformance with accessibility standards to ensure the content can be accessed by everyone. See the Handbook link to the upper right for more about the Web Accessibility Checker.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "639"
 }, {
   "itemName" : "<a href='http://httpd.apache.org/'target='_blank'>Apache HTTP Server</a>",
   "itemDescription" : "The Apache HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows NT. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards",
@@ -1555,6 +1580,11 @@
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "1000"
 }, {
+  "itemName" : "<a href='http://mockito.org/'target='_blank'>Mockito</a>",
+  "itemDescription" : "Mockito is a mocking framework that tastes really good. It lets you write beautiful tests with clean & simple API. Mockito doesn’t give you hangover because the tests are very readable and they produce clean verification errors.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1000"
+}, {
   "itemName" : "<a href='https://jersey.java.net/documentation/latest/test-framework.html'target='_blank'>Jersey Test Framework</a>",
   "itemDescription" : "Jersey Test Framework originated as an internal tool used for verifying the correct implementation of server-side components. Testing RESTful applications became a more pressing issue with \"modern\" approaches like test-driven development and users started to look for a tool that could help with designing and running the tests as fast as possible but with many options related to test execution environment.",
   "licensingInfo" : "Open Source",
@@ -1689,6 +1719,11 @@
 }, {
   "itemName" : "<a href='http://opensta.org/'target='_blank'>OpenSTA</a>",
   "itemDescription" : "OpenSTA is a distributed software testing architecture designed around CORBA, it was originally developed to be commercial software by CYRANO. The current toolset has the capability of performing scripted HTTP and HTTPS heavy load tests with performance measurements from Win32 platforms. However, the architectural design means it could be capable of much more",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1051"
+}, {
+  "itemName" : "<a href='http://databene.org/databene-benerator'target='_blank'>Databene Benerator</a>",
+  "itemDescription" : "benerator supports you in performing realistic load and performance tests. It is a framework\n\nfor generating realistic and valid high-volume test data for your system under test (avoiding the Datalite anti-pattern). benerator actually reduces the amount of time for creating a useful data setup of a medium sized enterprise application or XML Schema from 2-4 weeks to 1-2 days!",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "1051"
 }, {
