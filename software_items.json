@@ -629,6 +629,18 @@
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "470"
 }, {
+  "itemName" : "<a href='http://resteasy.jboss.org/'target='_blank'>RESTeasy</a>",
+  "itemDescription" : "RESTEasy is a JBoss project that provides various frameworks to help you build RESTful Web Services and RESTful Java applications. It is a fully certified and portable implementation of the JAX-RS specification. JAX-RS is a new JCP specification that provides a Java API for RESTful Web Services over the HTTP protocol.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "470",
+  "platform" : "Java"
+}, {
+  "itemName" : "<a href='https://wink.apache.org/'target='_blank'>Apache Wink</a>",
+  "itemDescription" : "Apache Wink is a simple yet solid framework for building RESTful Web services. It is comprised of a Server module and a Client module for developing and consuming RESTful Web services.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "470",
+  "platform" : "Java"
+}, {
   "itemName" : "<a href='http://www.dreamfactory.com/'target='_blank'>Dream Factory</a>",
   "itemDescription" : "Dreamfactory is an open source software package that provides a pre-built, highly-customizable RESTful backend for modern mobile, web, and Internet of Things (IoT) applications. DreamFactory functions as server middleware. With just a few clicks, you can connect your applications to backend resources such as SQL, NoSQL, file storage, email, and push notifications with an automatically generated Representational State Transfer (REST) API.",
   "licensingInfo" : "Open Source",
@@ -1412,6 +1424,16 @@
   "itemDescription" : "Hudson is a continuous integration (CI) tool written in Java, which runs in a servlet container, such as Apache Tomcat or the GlassFish application server. It supports SCM tools including CVS, Subversion, Git, Perforce, Clearcase and RTC, and can execute Apache Ant and Apache Maven based projects, as well as arbitrary shell scripts and Windows batch commands",
   "licensingInfo" : "Open Source",
   "parentCategoryId" : "950"
+}, {
+  "itemName" : "<a href='http://jenkins-ci.org/'target='_blank'>Jenkins</a>",
+  "itemDescription" : "Jenkins is an open source continuous integration tool written in Java. The project was forked from Hudson after a dispute with Oracle.\nJenkins provides continuous integration services for software development. It is a server-based system running in a servlet container such as Apache Tomcat. It supports SCM tools including AccuRev, CVS, Subversion, Git, Mercurial, Perforce, Clearcase and RTC, and can execute Apache Ant and Apache Maven based projects as well as arbitrary shell scripts and Windows batch commands. The primary developer of Jenkins is Kohsuke Kawaguchi.[2] Released under the MIT License, Jenkins is free software.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "950"
+}, {
+  "itemName" : "<a href='http://jenkins-ci.org/'target='_blank'>Jenkins</a>",
+  "itemDescription" : "Jenkins is an open source continuous integration tool written in Java. The project was forked from Hudson after a dispute with Oracle.\nJenkins provides continuous integration services for software development. It is a server-based system running in a servlet container such as Apache Tomcat. It supports SCM tools including AccuRev, CVS, Subversion, Git, Mercurial, Perforce, Clearcase and RTC, and can execute Apache Ant and Apache Maven based projects as well as arbitrary shell scripts and Windows batch commands. The primary developer of Jenkins is Kohsuke Kawaguchi.[2] Released under the MIT License, Jenkins is free software.",
+  "licensingInfo" : "Open Source",
+  "parentCategoryId" : "1300"
 }, {
   "itemName" : "<a href='https://maven.apache.org/'target='_blank'>Maven</a>",
   "itemDescription" : "Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information.",
