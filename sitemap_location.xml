@@ -1,12 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-  <url>
-    <loc>http://softwarechoices.github.io/SoftwareChoices/index.html</loc> 
-  </url>
-  <url>
-    <loc>http://softwarechoices.github.io/SoftwareChoices/Software_categories.html</loc> 
-  </url>
-  <url>
-    <loc>http://softwarechoices.github.io/SoftwareChoices/Software_categories.html</loc> 
-  </url>
+  <url><loc>http://softwarechoices.github.io/SoftwareChoices/index.html</loc></url>
+  <url><loc>http://softwarechoices.github.io/SoftwareChoices/Software_categories.html</loc></url>
+  <url><loc>http://softwarechoices.github.io/SoftwareChoices/Software_categories.html</loc></url>
+ <url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1350&amp;path=Databases > Relational Databases</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1353&amp;path=Databases > No SQL > Column Store</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=2020&amp;path=Customer Relationship Management > Applications</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=2060&amp;path=Code Quality Management > Technologies</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3060&amp;path=Servers > Access Management</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=320&amp;path=Business Intelligence > Packaged Solution</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=620&amp;path=Utilities > Template engine</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=l253&amp;path=Project Management > Application Lifecycle Management</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/ItemDetails.html</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1000&amp;path=Application Testing > Code Testing</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1050&amp;path=Application Testing > Web Testing</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=110&amp;path=Big Data > Hadoop > Ingestion > Streaming</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1100&amp;path=Cloud Services > Management</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=120&amp;path=Big Data > Hadoop > Ingestion > Non Streaming</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1200&amp;path=Business Process Management > Applications</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1201&amp;path=Business Process Management > Applications > Tools</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1250&amp;path=Project Management > Agile project management</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1251&amp;path=Project Management > Team Collaboration</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1300&amp;path=Job Scheduler > Applications</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1301&amp;path=Job Scheduler > API</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1351&amp;path=Databases > No SQL > Key Value data store</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1352&amp;path=Databases > No SQL > Document store</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1354&amp;path=Databases > Relational Databases > Mysql > Tools</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1355&amp;path=Databases > Graph Database</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1356&amp;path=Databases > Graph Database > Processing</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1370&amp;path=Databases > Clients</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1372&amp;path=Databases > Persistence API</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1373&amp;path=Databases > Migration tools</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=140&amp;path=Big Data > Hadoop > Processing > MapReduce > Analytics</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1400&amp;path=Caching > Client</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1401&amp;path=Caching > Server</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=141&amp;path=Big Data > Hadoop > Processing > MapReduce > Testing</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=1450&amp;path=Messaging > Technologies</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=160&amp;path=Big Data > Hadoop > Processing > Spark > Analytics</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=161&amp;path=Big Data > Hadoop > Processing > Spark > Graphs</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=170&amp;path=Big Data > Hadoop > Scheduling</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=190&amp;path=null</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=200&amp;path=null</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=2000&amp;path=Content Repository > Applications</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=2040&amp;path=Version Control > Technologies</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=2041&amp;path=Version Control > SVN > Tools</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=2070&amp;path=Applicatin Monitoring > API</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=2080&amp;path=In-Memory Data Management > Technologies</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=2090&amp;path=Business Rules Management > Applications</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=211&amp;path=Big Data > Hadoop > DataSources > In Memory</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=220&amp;path=Big Data > Hadoop > Machine Learning</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=230&amp;path=Big Data > Hadoop > Distributions</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=240&amp;path=Big Data > Hadoop > Business Intelligence</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=250&amp;path=Big Data > Hadoop > Administration</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=255&amp;path=Big Data > Hadoop > Cloud Services</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=300&amp;path=null</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3000&amp;path=Enterprise Portal Solutions > Technologies</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3010&amp;path=Content Management System > Applications</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3020&amp;path=Enterprise Integration (SOA) > Enterprise Service Bus(ESB)</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3025&amp;path=Enterprise Integration (SOA) > Middleware Platform</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3040&amp;path=Multilingual > Libraries</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3050&amp;path=Platform As a Service (PaaS) > servers</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3065&amp;path=Services > Web Analytics</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3066&amp;path=Services > Web commerce</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3070&amp;path=Requirements Management > softwares</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3080&amp;path=Debugging / Performance / Monitoring Tools > Tools</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=3090&amp;path=Learning Management System > Applications</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=310&amp;path=Business Intelligence > Reporting > Libraries</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=400&amp;path=Extract Transform Load (ETL) > Tools</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=4010&amp;path=Enterprise Resource Planning > Applications</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=410&amp;path=Frameworks / Specifications > Application Deployment</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=420&amp;path=Frameworks / Specifications > Security</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=430&amp;path=Frameworks / Specifications > Content Repository</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=460&amp;path=Networking > Libraries</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=461&amp;path=Networking > Monitoring</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=462&amp;path=Networking > Load Balancing</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=463&amp;path=Networking > Monitoring > Wifi</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=465&amp;path=Networking > FTP Clients</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=470&amp;path=WebServices > RESTFull > Libraries</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=482&amp;path=WebServices > SOAP > Libraries</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=490&amp;path=User Interface > JavaScript Library</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=500&amp;path=User Interface > Jquery</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=550&amp;path=Data Interchange > Formats > XML</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=560&amp;path=Data Interchange > JSON > Tools</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=570&amp;path=Data Interchange > JSON > Processors</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=580&amp;path=Data Interchange > XML/Xpath > Processors</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=585&amp;path=Data Interchange > Serialize/Deserialize</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=590&amp;path=Utilities > Designing</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=600&amp;path=Utilities > File Compare</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=610&amp;path=Utilities > Printing</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=625&amp;path=Utilities > Integration > Excel</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=626&amp;path=Utilities > Integration</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=629&amp;path=Utilities > PDF</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=630&amp;path=Utilities > Content Analytics</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=631&amp;path=null</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=632&amp;path=Utilities > Anti Virus</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=633&amp;path=Utilities > Windows OS</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=634&amp;path=Utilities > Code generation</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=635&amp;path=Utilities > Document Generation</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=636&amp;path=Utilities > Remote control</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=637&amp;path=Utilities > Email application</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=638&amp;path=Utilities > WAP and SMS</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=639&amp;path=Utilities > HTML</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=710&amp;path=Servers > Web Servers</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=711&amp;path=Servers > Web Proxy</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=720&amp;path=Servers > OSGI Servers</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=721&amp;path=Servers > Application Servers</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=722&amp;path=Servers > Identity Servers</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=723&amp;path=Servers > LDAP Servers</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=724&amp;path=Servers > Portal Servers</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=725&amp;path=Servers > Blog Servers</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=800&amp;path=Enterprise Search > Servers</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=801&amp;path=Enterprise Search > Libraries</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=850&amp;path=Frameworks / Specifications > Web Application development</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=852&amp;path=Frameworks / Specifications > Web Application development > JSF</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=853&amp;path=Frameworks / Specifications > Web Application development > JSF > Component Library</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=854&amp;path=Frameworks / Specifications > Web Application development > Object Relational Mapping</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=856&amp;path=Frameworks / Specifications > Web Application development > Swing > Component Library</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=950&amp;path=Build / Deploy > Build Automation > Applications</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=951&amp;path=Build / Deploy > Technologies</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=970&amp;path=IDE > Java development</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=980&amp;path=IDE > Java development > Eclipse > Plugins > Reporting</loc></url>
+<url><loc>http://softwarechoices.github.io/SoftwareChoices/category_items_deails.html?categoryid=628&amp;path=Utilities > Data Compression/SoftwareChoices/category_items_deails.html?categoryid=988&amp;path=IDE > Text Editor</loc></url>
 </urlset>
